@@ -1,3 +1,4 @@
+## Google interview question : First recurring char in given string
 class Solution:
     def first_recurring_char(self,str):
         counts = {}
